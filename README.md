@@ -26,8 +26,8 @@ Feel free to explore, fork, or reach out!
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: [your.email@example.com]
-- 🌐 LinkedIn: [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 📧 Email: marcelo.carvacho97+github@gmail.com
+- 🌐 LinkedIn: [https://linkedin.com/in/marcelo-carvacho]
 - 🌍 Based in Chile, working globally
 
 ---
